@@ -228,4 +228,24 @@ This system is developed specifically for the Commercial Bank of Ethiopia - Hawa
 - **Release Date**: January 2024
 - **PHP Version**: 7.4+
 - **MySQL Version**: 5.7+
-- **Bootstrap Version**: 5.1.3
+- **Bootstrap Version**: 5.1.3## Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### User Dashboard
+
+![User Dashboard](screenshots/user-dashboard.png)
+
+### Inventory Management
+
+![Inventory Management](screenshots/inventory.png)
+
+### Request Management
+
+![Request Management](screenshots/requests.png)
