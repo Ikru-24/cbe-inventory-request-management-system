@@ -71,16 +71,18 @@ Navigate to: `http://localhost/hawassa_inventory/`
 
 ### Default Login Credentials
 
-#### Administrator Account
-- **Username**: `admin`
-- **Password**: `admin123`
-- **Role**: Administrator
+## Demo Access
 
-#### User Accounts
-- **Username**: `user1` / **Password**: `user123`
-- **Username**: `user2` / **Password**: `user123`
-- **Username**: `user3` / **Password**: `user123`
-- **Role**: Regular User
+For security reasons, login credentials are not publicly listed in this repository.
+
+To request demo access or a live demonstration of the system, please contact the project author.
+
+The system supports role-based access for:
+
+- **Administrator** — Manage users, inventory, requests, and system operations.
+- **Regular User** — Submit and track material requests.
+- **Storekeeper** — Manage inventory and monitor stock levels.
+- **Manager** — Review and manage requests according to assigned permissions.
 
 ### Database Structure
 
